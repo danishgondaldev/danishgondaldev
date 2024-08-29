@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Danish Akram.</h1>
-<h3 align="center">A passionate Full-Stack and Desktop developer from Pakistan</h3>
+<h3 align="center">A Desktop Development, Deep Learning and Computer Vision enthusiast from Pakistan.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishgondaldev&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" />
@@ -7,15 +7,11 @@
 
 
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, and various databases including MongoDB and MySQL.
-
-- <img  align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Desktop development enthusiast with expertise in C# (WPF, WinForms, UWP).
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Cross-platform app developer using Flutter and Dart, with experience in Firebase and Supabase for backend services.
+- <img  align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Desktop development enthusiast with expertise in C# (WPF, WinForms) and MySQL. Deep Learning and Computer Vision enthusiast with skills in Python, OpenCV, PyTorch.
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Passionate about creating innovative solutions and enhancing user experiences.
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in computer science.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in Computer Science. I am currently among top 2% students of my batch with a CGPA of 3.799/4.
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with me and explore my projects below!
 
@@ -29,29 +25,17 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  title="C"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="python logo" title="PyTorch" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  title="CSS"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  title="JavaScript"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  title="Node.js"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React.js"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
@@ -59,45 +43,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" title="Flutter" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
-
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" title="Android Studio" />
 </div>
-
-
-###
-
-<h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  My Contribution Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishgondaldev&hide_border=true&theme=react-dark&custom_title=Danish%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
-
-
-
-###
-
-
-###
-
-<h3 align="left"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />   My Stats :</h3>
-
-###
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=danishgondaldev&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=danishgondaldev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353" height="300" width="600" alt="Stats Graph" /> <br>
-  
-</div>
-
-###
